@@ -25,7 +25,7 @@ This project is a simple web-based version of the classic toy, Etch-a-Sketch, im
 
 ## Demo
 
-You can find a live demo of the Etch-a-Sketch project [here](#).
+You can find a live demo of the Etch-a-Sketch project [here](https://eljude03.github.io/Etch-a-Sketch/). 
 
 
 
